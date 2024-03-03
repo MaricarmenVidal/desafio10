@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "CONVERSACION EN LA CATEDRAL",
+    "description": "Escrito por Mario Vargas Llosa",
+    "price": "59",
+    "stock": "10",
+    "category": "Literatura peruana",
+    "image": "conversacion-en-la-catedral.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "IT ENDS WITH US",
+    "description": "Escrito por Colleen Hoover",
+    "price": "75",
+    "stock": "30",
+    "category": "Novela",
+    "image": "it_ends_with_us.jpg"
+  },
+  {
+    "id": 3,
+    "title": "LOS JUEGOS DEL HAMBRE",
+    "description": "Escrito por Suzanne Collins",
+    "price": "75",
+    "stock": "15",
+    "category": "Saga de novelas",
+    "image": "los-juegos-del-hambre.jpg"
+  },
+  {
+    "id": 4,
+    "title": "NOTHING LASTS FOREVER",
+    "description": "Escrito por Sidney Sheldon",
+    "price": "65",
+    "stock": "25",
+    "category": "Novela",
+    "image": "nothing_lasts_forever.jpg"
+  },
+  {
+    "id": 5,
+    "title": "TE ESCRIBÍ MAÑANA",
+    "description": "Escrito por Gustavo Rodriguez",
+    "price": "59",
+    "stock": "10",
+    "category": "Novela",
+    "image": "te-escribi-manana.jpg"
+  },
+  {
+    "id": 6,
+    "title": "TELL ME YOUR DREAMS",
+    "description": "Escrito por Sidney Sheldon",
+    "price": "65",
+    "stock": "15",
+    "category": "Misterio",
+    "image": "Tell_Me_Your_Dreams.jpg"
+  },
+  {
+    "id": 7,
+    "title": "THE GIRL ON THE TRAIN",
+    "description": "Escrito por Paula Hawkins",
+    "price": "47",
+    "stock": "32",
+    "category": "Novela",
+    "image": "the_girl_on_the_train.jpg"
+  },
+  {
+    "id": 8,
+    "title": "LE DEDICO MI SILENCIO",
+    "description": "Escrito por Mario Vargas Llosa",
+    "price": "34",
+    "stock": "18",
+    "category": "Novela",
+    "image": "le_dedico_mi_silencio.jpg"
+  }
+]
